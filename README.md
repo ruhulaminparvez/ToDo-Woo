@@ -2,6 +2,12 @@
 
 A Simple TODO Woo Website that is driven by databases. It's a list of tasks you need to complete or things that you want to do. Most typically, they're organized in order of priority. Traditionally, they're written on a piece of paper or post-it notes and acts as a memory aid. 📜📌
 
+## Features
+- User creates account(registration) capabilities.
+- User Login capabilities.
+- Adding user tasks based on importance ratio.
+- After completion, the task can mark as a completed task.
+
 ## Technologies
 1. Django(Backend)
 2. Bootstrap(Frontend)
