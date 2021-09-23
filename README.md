@@ -4,7 +4,7 @@ A Simple TODO Woo Website that is driven by databases. It's a list of tasks you 
 
 ## Features
 - User creates account(registration) capabilities.
-- User Login capabilities.
+- User login capabilities.
 - Adding user tasks based on importance ratio.
 - After completion, the task can mark as a completed task.
 
